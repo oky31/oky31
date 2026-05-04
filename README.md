@@ -1,16 +1,29 @@
-👋 Hi, I’m Oky Saputra
+# 👋 Hi, I’m Oky Saputra
 
-Backend / Platform Engineer with 9+ years of experience building systems for financial transactions, inventory, and business-critical operations.
+Backend / Platform Engineer with 9+ years of experience building systems for **financial transactions, inventory, and business-critical operations**.
 
-I focus on:
+---
 
-Distributed systems & backend architecture
-High-throughput & reliable systems
-Event-driven & async processing
-🚀 What I’ve worked on
-Financial wallet system (payments, transaction consistency)
-POS & inventory systems (offline-first + real-time sync)
-Performance optimization (1.6GB → 160MB memory reduction)
-🛠 Tech I use
+## 🎯 What I Focus On
 
-Go • Kafka • MySQL • Redis • Docker • Linux • AWS/GCP
+- Distributed systems & backend architecture  
+- High-throughput & reliable systems  
+- Event-driven & async processing  
+
+---
+
+## 🚀 What I’ve Worked On
+
+- Financial wallet system (payments, transaction consistency)  
+- POS & inventory systems (offline-first + real-time sync)  
+- Performance optimization (1.6GB → 160MB memory reduction)  
+
+---
+
+## 🛠 Tech I Use
+
+- **Languages:** Go  
+- **Messaging & Streaming:** Kafka  
+- **Databases:** MySQL, Redis  
+- **Infrastructure:** Docker, Linux  
+- **Cloud:** AWS / GCP  
