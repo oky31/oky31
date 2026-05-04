@@ -1,9 +1,16 @@
-- 👋 Hi, I’m @oky31
-- 👀 I’m not (frontend, backend), i am claim my self as generalist you can put me in any where and then solve you problem
-- 💞️ I’m looking to collaborate on everthing
-- 📫 How to reach me saputraoky6@gmail.com
+👋 Hi, I’m Oky Saputra
 
-<!---
-oky31/oky31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Backend / Platform Engineer with 9+ years of experience building systems for financial transactions, inventory, and business-critical operations.
+
+I focus on:
+
+Distributed systems & backend architecture
+High-throughput & reliable systems
+Event-driven & async processing
+🚀 What I’ve worked on
+Financial wallet system (payments, transaction consistency)
+POS & inventory systems (offline-first + real-time sync)
+Performance optimization (1.6GB → 160MB memory reduction)
+🛠 Tech I use
+
+Go • Kafka • MySQL • Redis • Docker • Linux • AWS/GCP
